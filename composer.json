@@ -1,5 +1,5 @@
 {
-    "name": "nlsoft/yii2_paypal",
+    "name": "minhhoit/yii2_paypal",
     "description": "The PayPal extension for the Yii2 framework",
     "keywords": ["yii2", "paypal"],
     "type": "yii2-extension",
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "Minh Ho",
-            "email": "minh.ho@namlongsoft.net"
+            "email": "hoangminh.it4u@gmail.com"
         }
     ],
     "minimum-stability": "dev",
